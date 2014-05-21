@@ -1,0 +1,305 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+  font-family: "Bazar";
+  src: url("Bazarr.tff");
+       
+}
+
+.column img
+{
+border:5px solid #2F4F4F;
+border-radius:10px;
+}
+
+
+.column {
+  float: left;
+  width: 15%;
+  padding: 5px 63px;
+}
+
+#edu p
+{
+                   cursor:default;
+                   padding-left:15%;
+                   font-family: desdemona;               
+                   margin-right:15%;
+                   color:#303030;
+                   font-size:18px;
+                   font-weight:normal;
+                   float:left;
+                   text-align:center;
+
+}
+
+
+#heading
+{
+	position: fixed;
+	width: 125%;
+	height: 90px;
+                    	border-bottom:2.5px #5300A3 dashed;
+	z-index: 100;
+	background: url("./images/top.png");
+	
+}
+
+#headingc
+{
+	position: fixed;
+	width: 125%;
+	height: 90px;
+	border-bottom: 2px #000000 solid;
+	z-index: 100;
+                   background-image:url(./images/img.png);
+}
+#base{
+	position: fixed;
+	width: 125%;
+	height: 40px;
+	border-top: 2px #5300A3 dashed;
+	z-index: 100;
+                  	background: url("./images/bottom.png") ;
+                   float:bottom;
+                   bottom:0%;
+	
+}
+#basea{
+	position: fixed;
+	width: 125%;
+	height: 35px;
+	border-top: 2px solid black;
+	z-index: 100;
+                  	background: url("./images/img.png") ;
+                   float:bottom;
+                   bottom:0%;
+	
+}
+
+body
+{
+	height: 100%;
+	width: 100%;
+                   left-margin:50%;
+	
+}
+
+ 
+
+a {
+    
+    text-decoration: none;
+}
+
+.social
+{
+
+padding-left:140px; 
+display:block;
+width:170px; 
+font-size:20px;
+font-weight:bold;
+float:left;
+padding-top:8px;
+font-family: Bazar;
+
+}
+
+.sociala
+{
+
+padding-left:140px; 
+display:block;
+width:170px; 
+font-size:20px;
+font-weight:bold;
+float:left;
+padding-top:8px;
+font-family: Bazar;
+text-outline:2px 2px white;
+
+}
+
+.firsth , .secondh ,.thirdh
+{
+
+padding-left:80px; 
+display:block;
+text-color:white;
+width:170px; 
+font-size:30px;
+float:left;
+padding-top:28px;
+font-family: Bazar;
+
+}
+
+.first , .second ,.third
+{
+font-color:#E0E0E0;
+padding-left:80px; 
+display:block;
+width:170px; 
+font-size:30px;
+float:left;
+padding-top:28px;
+font-family: Bazar;
+
+}
+
+.Pagebox
+{
+                  position: relative;
+	top: 5px;
+	padding:10px;
+	height: 60px;
+	left: 70px;
+	cursor: default;
+	width: 650px;
+	font-family: "Bazar";
+	color: #606060;
+	font-size: 74px;
+	text-shadow: rgba(50,50,50,0.8) 3px 3px 3px;
+}
+
+
+p>span
+{
+	
+                   cursor:default;
+                   padding-left:55%;
+                   font-family: desdemona;               
+                   margin-right:15%;
+                   color: black;
+                   font-size:20px;
+                   font-weight:normal;
+                   float:left;
+                   text-align:center;
+}
+
+.id
+{
+	margin-left:80px;
+                   cursor:default;
+                   padding-left:0%;
+                   font-family: desdemona;  
+                   color: black;
+                   text-align:center;
+                   font-size:19px;
+                   font-weight:normal;
+                   float:left;
+}
+
+.pic
+{
+float:left;
+top:350px;
+position:absolute;
+padding-bottom:0px;
+margin-bottom:0;
+}
+
+.content p
+{
+                   cursor: default;
+                   padding-left:49%;                             
+                   margin-right:9%;
+                   font-size:17px;
+                   font-weight:normal;
+                   float:left;
+                  font-family:bookman;
+}
+
+.cont p
+{
+                   cursor: default;
+                   padding-left:50%;                             
+                   margin-right:9%;
+                   font-size:17px;
+                   font-weight:normal;
+                   float:left;
+                  font-family:bookman;
+}
+
+
+.Pcontact 
+{
+                  position: relative;
+	top: 100px;
+	padding:27px;
+	height: 190px;
+	cursor: default;
+                   text-align:center;
+                   left:10%;
+	width: 950px;
+	font-family: "Bazar";
+	color: #404040;
+	font-size: 84px;
+	text-shadow: rgba(50,50,50,0.8) 3px 3px 3px;
+}
+
+#container p>span
+{
+
+                   margin-top:-80px;
+                   font-family: desdemona;               
+                   margin-right:15%;
+                   color:#2F4F4F;
+                   font-size:19px;
+                   font-weight:normal;
+                   float:right;
+                   width=70%;
+	left: 90px;
+                   text-align:center;
+
+}
+.Pageboxm
+{
+                  position: relative;
+	top: 0px;
+	padding:40px;
+	height: 40px;
+	left: 170px;
+	cursor: default;
+	width: 650px;
+	font-family: "Bazar";
+	color: #404040;
+	font-size: 64px;
+	text-shadow: rgba(50,50,50,0.8) 3px 3px 3px;
+}
+
+.Pagebox-child
+{
+                   position: relative;
+	top: 18px;
+	padding:30px;
+	height: 40px;
+	left: 100px;
+	cursor: default;
+	width: 400px;
+	font-family: "Bazar";
+	color: #606060;
+	font-size: 34px;
+	text-shadow: rgba(40,40,40,0.8) 3px 3px 3px;
+                   z-index:-1;
+}
+
+.Pagebox-edu
+{
+                   position: relative;
+	top:0px;
+	padding:20px;
+	height: 40px;
+	left: 470px;
+	cursor: default;
+	width: 400px;
+	font-family: "Bazar";
+	color:#303030;
+	font-size: 34px;
+	text-shadow: rgba(40,40,40,0.8) 3px 3px 3px;
+                   z-index:-1;
+}
