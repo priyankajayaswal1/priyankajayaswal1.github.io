@@ -44,7 +44,7 @@ border-radius:10px;
 	height: 90px;
                     	border-bottom:2.5px #5300A3 dashed;
 	z-index: 100;
-	background: url("./images/top.png");
+	background: url("./images/top.PNG");
 	
 }
 
@@ -55,7 +55,7 @@ border-radius:10px;
 	height: 90px;
 	border-bottom: 2px #000000 solid;
 	z-index: 100;
-                   background-image:url(./images/img.png);
+                   background-image:url(./images/img.PNG);
 }
 #base{
 	position: fixed;
@@ -63,7 +63,7 @@ border-radius:10px;
 	height: 40px;
 	border-top: 2px #5300A3 dashed;
 	z-index: 100;
-                  	background: url("./images/bottom.png") ;
+                  	background: url("./images/bottom.PNG") ;
                    float:bottom;
                    bottom:0%;
 	
@@ -74,7 +74,7 @@ border-radius:10px;
 	height: 35px;
 	border-top: 2px solid black;
 	z-index: 100;
-                  	background: url("./images/img.png") ;
+                  	background: url("./images/img.PNG") ;
                    float:bottom;
                    bottom:0%;
 	
