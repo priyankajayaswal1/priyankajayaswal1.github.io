@@ -1,0 +1,52 @@
+
+1) Pre Placement Talks [ PPT ] for Final Placements / Internships : 31st July, 2015 (5.30 pm onwards)
+The PPTs will be held in two slots each day after the class hours from Monday through Friday - 5.30 p.m. to 6.30 p.m. and 6.30 p.m. to 7.30 p.m. On Saturdays / Sundays / Holidays, we may have around five slots -- 9.30 a.m. / 11.00 a.m. / 2.30 p.m. / 4.30 p.m. / 6.30 p.m.
+
+
+2) Final Placements -
+First Phase : 1 to 20 December, 2015
+Second Phase : 5th January, 2016 till end of April, 2016.
+
+Questions:
+
+what is future  scope of mathematics and computing iit kharagpur  graduate career wise?
+https://www.math.umass.edu/undergraduate/career-opportunities
+http://www.awm-math.org/ctcbrochure/toc.html
+http://www.mastersindatascience.org/
+http://www.sfu.ca/~rpyke/ind_math.html
+https://collegegrad.com/careers/mathematicians
+
+IIT specific :
+•	http://why.iitkgp.ac.in/placement-internships 
+•	http://www.iitg.ernet.in/maths/placements/placement.php 
+Ask Vibhuti her resources.
+
+Get list of IIT Kgp alumni (old)
+•	Linked in connects : https://iitkgp.org/content/global-chapters
+•	Linked in connects:  https://iitkgp.org/content/domestic-chapters
+•	Linked in connects:  https://iitkgp.org/annual-report-2015/#/96/
+•	Linked in connects: https://iitkgp.org/annual-report-2015/#/52/
+•	Linked in connects: https://iitkgp.org/annual-report-2015/#/54/ 
+•	Linked in connects: https://iitkgp.org/annual-report-2015/#/56/
+•	Linked in connects: https://iitkgp.org/annual-report-2015/#/58/ 
+•	http://www.iitfoundation.org/ 
+
+Get list of IIT Kgp alumni (mnc)
+•	http://why.iitkgp.ac.in/sites/default/files/MATHEMATICS.pdf
+•	http://iitkgp.ac.in/academics/?page=acadunits&&dept=MM#
+•	http://iitkgp.ac.in/academics/?page=acadunits&&dept=CS#
+•	http://cse.iitkgp.ac.in/?students.html
+•	
+
+From: Jayaswal, Priyanka 
+Sent: Thursday, June 02, 2016 1:35 AM
+To: 'priyankajayaswal025@gmail.com'
+Subject: Course Content (Books and links)
+
+http://nlp.stanford.edu/fsnlp/
+http://nlp.stanford.edu/links/statnlp.html
+http://home.earthlink.net/~dwaha/research/machine-learning.html
+http://www.cs.waikato.ac.nz/~ml/weka/
+http://www.cs.cornell.edu/People/tj/svmtcatbook/
+http://documents.software.dell.com/statistics/textbook/text-mining
+
